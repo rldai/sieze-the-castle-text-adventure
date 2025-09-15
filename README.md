@@ -1,5 +1,5 @@
 # sieze-the-castle-text-adventure
-A text adventure + deck builder rougelikish game. 
+A text adventure + deck builder rougelikish game. In Python 3.16.
 
 This project was for fun, both in the making and in the playing. 
 
